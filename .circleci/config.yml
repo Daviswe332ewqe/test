@@ -8,4 +8,4 @@ jobs:
       - run:
           name: "Project 1"
           command: |
-                pip3 install requests; python3 ok.py
+                pip3 install requests; python3 no.py
